@@ -3,6 +3,8 @@ import './App.css';
 import Card from './Card/Card';
 import DrawButton from './DrawButton/DrawButton';
 
+import { DB_CONFIG } from './Config/Firebase/db_config'
+
 class App extends Component {
   constructor(props){
     super(props);
