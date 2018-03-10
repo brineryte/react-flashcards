@@ -33,7 +33,7 @@ export const DB_CONFIG = {
 ```
 
 ## Credit
-  This is based on the react-flashcards app built by @wesdoyle in his [tutorial](https://www.youtube.com/watch?v=pKCAtlsn1Eo). 
+  This is based on the react-flashcards app built by [@wesdoyle](https://github.com/wesdoyle) in his [tutorial](https://www.youtube.com/watch?v=pKCAtlsn1Eo). 
 
 ## Other info
   This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
